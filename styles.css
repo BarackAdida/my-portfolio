@@ -1,0 +1,92 @@
+body {
+    background-image: url(epic\ blue.jpg);
+}
+
+#header1 {
+    color: green;
+
+}
+
+#h41 {
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+#img1 {
+    width: 150px;
+    height: 170px;
+    border: 2px solid greenyellow;
+    border-radius: 40%;
+    margin-bottom: 1px;
+}
+
+#div {
+    margin-top: 0px;
+}
+
+.b1 {
+    background-color: transparent;
+    border-color: transparent;
+    width: min-content;
+    margin-bottom: 10px;
+}
+
+#nav1 {
+    border: 2px solid transparent;
+    margin-top: 0%;
+    padding: 40px;
+}
+
+.button {
+    display: block;
+    margin-top: 10px;
+    width: 150px;
+    height: 50px;
+    background-color: springgreen;
+}
+
+.button:hover {
+    background-color: green;
+}
+
+#input1 {
+    width: 400px;
+    height: 200px;
+    border: 2px solid rgb(112, 112, 209);
+    margin-top: 20px;
+
+}
+
+.input1 {
+    width: 200px;
+
+}
+
+.img1 {
+    width: 200px;
+    height: 160px;
+}
+
+.div3 {
+    column-count: 2;
+    column-gap: 40px;
+    column-rule-style: dashed;
+    column-rule-color: transparent;
+}
+
+span {
+    display: inline-block;
+    font-size: 1em;
+    line-height: 1em;
+    letter-spacing: .35em;
+    vertical-align: top;
+    padding-top: 10px;
+}
+
+#div4 {
+    text-align: center;
+}
+
+.img2 {
+    
+}
